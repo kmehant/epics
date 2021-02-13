@@ -1,2 +1,1 @@
-# epics
-Personal Antibiotic Alert Platform
+### EPICS Project
